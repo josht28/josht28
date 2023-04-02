@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Josh
-_________________________________________________________________
+
 <p>
 I am a passionate software engineer who loves discovering new technologies. My love for technology and the impact it can have made me start my journey as a software engineer in 2022 and i'm constantly striving to be better.
 </p>
@@ -10,11 +10,11 @@ I am a passionate software engineer who loves discovering new technologies. My l
 <br/>
 
 ## 🌐 Socials
-_________________________________________________________________
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josht28/)
 
 # 💻 Tech Stack
-_________________________________________________________________
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
