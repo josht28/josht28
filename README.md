@@ -1,4 +1,4 @@
-### Hi 👋 My name is Josh
+### Hi 👋 I'm Josh
 _________________________________________________________________
 <p>
 I am a passionate software engineer who loves discovering new technologies. My love for technology and the impact it can have made me start my journey as a software engineer in 2022 and i'm constantly striving to be better.
